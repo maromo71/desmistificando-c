@@ -1,5 +1,8 @@
 # Desmistificando a Linguagem C: Uma Abordagem Prática
 
+<p align="center">
+  <img src="images/desmistificando.png" style="width: 50%">
+</p>
 Este repositório contém todos os códigos de exemplo e exercícios do curso "Desmistificando a Linguagem C: Uma Abordagem Prática". Cada capítulo do livro está organizado em um diretório separado, contendo códigos detalhadamente comentados para facilitar o aprendizado.
 
 ## Estrutura do Repositório
