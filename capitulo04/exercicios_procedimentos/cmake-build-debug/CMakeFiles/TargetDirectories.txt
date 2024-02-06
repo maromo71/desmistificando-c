@@ -1,0 +1,3 @@
+/Users/marcosmoraes/desmistificando-c/capitulo04/exercicios_procedimentos/cmake-build-debug/CMakeFiles/exercicios_procedimentos.dir
+/Users/marcosmoraes/desmistificando-c/capitulo04/exercicios_procedimentos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/desmistificando-c/capitulo04/exercicios_procedimentos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
