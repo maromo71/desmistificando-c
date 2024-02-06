@@ -6,18 +6,18 @@ Este repositório contém todos os códigos de exemplo e exercícios do curso "D
 
 Cada diretório corresponde a um capítulo do livro e contém scripts relevantes e exercícios:
 
-📖 capitulo01/ - Introdução à Linguagem C: Fundamentos e Visão Geral
-💾 capitulo02/ - Tipos de Dados e Variáveis
-🤔 capitulo03/ - Estruturas de Controle - Condicionais
-🔁 capitulo04/ - Estruturas de Controle - Loops
-🛠️ capitulo05/ - Funções e Procedimentos
-🧱 capitulo06/ - Vetores: Manipulação e Utilização de Arrays
-📝 capitulo07/ - Strings: Operações e Manipulação
-📍 capitulo08/ - Ponteiros: Conceitos e Aplicações Práticas
-🏗️ capitulo09/ - Estruturas de Dados (Structs)
-📂 capitulo10/ - Arquivos e I/O: Leitura e Escrita em Arquivos
-💭 capitulo11/ - Memória Dinâmica: Alocação e Gerenciamento de Memória
-🧩 capitulo12/ - Macros e Preprocessadores: Uso Avançado
+* 📖 capitulo01/ - Introdução à Linguagem C: Fundamentos e Visão Geral
+* 💾 capitulo02/ - Tipos de Dados e Variáveis
+* 🤔 capitulo03/ - Estruturas de Controle - Condicionais
+* 🔁 capitulo04/ - Estruturas de Controle - Loops
+* 🛠️ capitulo05/ - Funções e Procedimentos
+* 🧱 capitulo06/ - Vetores: Manipulação e Utilização de Arrays
+* 📝 capitulo07/ - Strings: Operações e Manipulação
+* 📍 capitulo08/ - Ponteiros: Conceitos e Aplicações Práticas
+* 🏗️ capitulo09/ - Estruturas de Dados (Structs)
+* 📂 capitulo10/ - Arquivos e I/O: Leitura e Escrita em Arquivos
+* 💭 capitulo11/ - Memória Dinâmica: Alocação e Gerenciamento de Memória
+* 🧩 capitulo12/ - Macros e Preprocessadores: Uso Avançado
 
 ## Como Usar
 
