@@ -1,0 +1,10 @@
+# ninja log v5
+0	34	1707252579675488201	build.ninja	6c89e6d51aa7ccd4
+0	194	1707252006699261269	CMakeFiles/exercicios_matriz.dir/exercicio01.c.o	b5b468055e72b738
+0	202	1707252111645120766	CMakeFiles/exercicios_matriz.dir/exercicio02.c.o	be82ceea3c8e96cb
+0	211	1707252540686574457	CMakeFiles/exercicios_matriz.dir/exercicio04.c.o	7df8df80699ecf8e
+211	351	1707252540823915093	exercicios_matriz	a186870e26aef28e
+0	121	1707252572126534345	CMakeFiles/exercicios_matriz.dir/exercicio05.c.o	f64c2cf56f8b430c
+0	206	1707252213697274473	CMakeFiles/exercicios_matriz.dir/exercicio03.c.o	cb499b1635c73b7e
+0	33	1707252579675488201	build.ninja	6c89e6d51aa7ccd4
+1	37	1707252579713725851	exercicios_matriz	ab900e1aa87a0910
