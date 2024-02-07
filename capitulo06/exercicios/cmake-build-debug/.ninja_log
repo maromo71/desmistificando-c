@@ -1,0 +1,13 @@
+# ninja log v5
+0	103	1707299907833863923	CMakeFiles/exercicios.dir/exercicio04.c.o	20da76d9a18927d6
+0	243	1707298694606131778	CMakeFiles/exercicios.dir/exercicio01.c.o	2606c007457ed9fa
+0	25	1707298803648519478	CMakeFiles/exercicios.dir/exercicio02.c.o	7ec7ee90b98604df
+0	47	1707300278750466547	build.ninja	324b62f057d41f9f
+0	108	1707300269834963568	CMakeFiles/exercicios.dir/exercicio06.c.o	d36ab80e40a7adc3
+106	132	1707300154188850839	exercicios	1bbeeabc36ebdb25
+0	28	1707298896721017882	CMakeFiles/exercicios.dir/exercicio03.c.o	f891039650416d0f
+1	106	1707300154164416338	CMakeFiles/exercicios.dir/exercicio05.c.o	5b396c39de22ee98
+0	40	1707300278750466547	build.ninja	324b62f057d41f9f
+0	29	1707300278783382106	exercicios	d8dd258686fedda2
+0	31	1707300367861268894	CMakeFiles/exercicios.dir/exercicio06.c.o	d36ab80e40a7adc3
+31	57	1707300367885828736	exercicios	d8dd258686fedda2
