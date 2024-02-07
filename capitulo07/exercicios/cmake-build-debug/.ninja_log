@@ -1,0 +1,14 @@
+# ninja log v5
+0	31	1707327449707130257	CMakeFiles/exercicios.dir/copia_profunda.c.o	ce3ef67108fe022
+0	30	1707327710620853292	CMakeFiles/exercicios.dir/percorrer_string.c.o	97cf67ecc7e53a0c
+0	158	1707327361665578703	CMakeFiles/exercicios.dir/calculadora.c.o	7fa8e561c7f12aef
+0	30	1707327665123701085	exercicios	13c472cee1b14861
+0	29	1707327587234999257	CMakeFiles/exercicios.dir/redimensionar_array.c.o	bc495add4286dcb
+0	112	1707327537253467292	CMakeFiles/exercicios.dir/array_strings.c.o	984b7a26ec6d0bfd
+0	177	1707327304441632661	CMakeFiles/exercicios.dir/invertendo_string.c.o	9c864d7e7c802de6
+0	34	1707327719130212436	build.ninja	f5045f07d2e8979b
+1	28	1707327401235448855	CMakeFiles/exercicios.dir/matriz.c.o	a763fd8a7ec69fd3
+0	31	1707327618692353914	CMakeFiles/exercicios.dir/comparacao_string.c.o	5fdc9951702ee5fb
+0	25	1707327657375361867	CMakeFiles/exercicios.dir/percorrer_array.c.o	1f55a3464fccb34a
+0	50	1707327719130212436	build.ninja	f5045f07d2e8979b
+0	29	1707327719163590694	exercicios	763ffc6fdef7d107
